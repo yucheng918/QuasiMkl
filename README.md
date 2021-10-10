@@ -1,14 +1,12 @@
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## Hello GitHub Fans 👋
 ### A passionate frontend developer from Taiwan
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm Quasi
 
 - 📫 How to reach me **quasipersonal58@gmail.com**
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -19,7 +17,4 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-⭐️ From [QuasiMkl](https://github.com/QuasiMkl)
