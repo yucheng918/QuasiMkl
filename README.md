@@ -15,7 +15,6 @@
 
 - 🚀 Frameworks
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=expressjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
