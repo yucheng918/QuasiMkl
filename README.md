@@ -18,4 +18,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) -->
