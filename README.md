@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### A passionate frontend developer from Taiwan
+### A passionate developer from Taiwan
 
 - 🌱 Currently Student.
 
