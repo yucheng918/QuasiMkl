@@ -3,7 +3,6 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm Quasi
 
 - 📫 How to reach me **quasipersonal58@gmail.com**
@@ -18,3 +17,5 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuasiMKl&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
