@@ -8,7 +8,6 @@
 ### I'm Quasi
 
 - 📫 How to reach me **quasipersonal58@gmail.com**
-- ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 Tech Stack
 
