@@ -1,16 +1,23 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Quasi</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### A passionate developer from Taiwan
 
 - 🌱 Currently Student.
 
-😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping !!!
-
 ☕ Get in touch
 - 📫 How to reach me **quasipersonal58@gmail.com**
+
+---
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasiMkl&tcount_private=true&theme=discord_old_blurple&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img align="center" alt="QuasiMkl" src="https://github-readme-stats.vercel.app/api?username=QuasiMkl&show_icons=true&theme=discord_old_blurple" />
+</p>
+
+---
 ## 🛠 Tech Stack
 
 - 🚀 Frameworks
@@ -39,8 +46,3 @@
 - ⚡ Database
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)
-
-<img src="https://github-readme-stats.vercel.app/api?username=QuasiMkl&show_icons=true&theme=discord_old_blurple" alt=QuasiMkl />
-
----
-⭐️ From [QuasiMkl](https://github.com/QuasiMkl)
