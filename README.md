@@ -40,7 +40,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json)
 - ⚡ Database
