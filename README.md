@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasiMkl&tcount_private=true&theme=discord_old_blurple&show_icons=true&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuasiMkl&layout=compact&theme=discord_old_blurple" />
 </p>
 
 <p align="center">
