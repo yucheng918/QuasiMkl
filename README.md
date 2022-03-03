@@ -45,3 +45,9 @@
 - ⚡ Database
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)
+
+<a href="https://ko-fi.com/Z8Z2BEGMC">
+    <p align="center">
+        <img align="center" alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
+    </p>
+</a>
