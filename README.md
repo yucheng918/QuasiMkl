@@ -10,11 +10,11 @@
 ---
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuasiMkl&layout=compact&theme=discord_old_blurple" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=QuasiMkl&langs_count=10&layout=compact&role=OWNER&theme=discord_old_blurple">
 </p>
 
 <p align="center">
-  <img align="center" alt="QuasiMkl" src="https://github-readme-stats.vercel.app/api?username=QuasiMkl&show_icons=true&theme=discord_old_blurple" />
+  <img align="center" alt="QuasiMkl" src="https://github-readme-stats.vercel.app/api?username=QuasiMkl&show_icons=true&role=OWNER&theme=discord_old_blurple" />
 </p>
 
 ---
